@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_appName__",
+  "version": "0.0.0.0",
+  "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+  "default_locale": "fr",
+  "description": "__MSG_appDesc__",
+  "browser_action": {
+    "default_icon": {
+      "300": "Nom du fichier.png"
+    },
+    "default_title": "__MSG_appName__",
+    "default_popup": "Nom du fichier.html"
+  },
+  "icons": {
+    "300": "Nom du fichier.png"
+  }
+}
